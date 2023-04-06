@@ -4,7 +4,7 @@ int main()
 
     char d1,d2,s1,m1,m2,s2,y1,y2;
 
-    scanf("%c%c%c%c%c%c%c%c",&d1,&d2,&s1,&m1,&m2,&s2,&y1,&y2);
+    scanf("%c%c%c%c%c%c%c%c",&d1,&d2,&m1,&m2,&s1,&s2,&y1,&y2);
 
     printf("%c%c%c%c%c%c%c%c\n",m1,m2,s1,d1,d2,s2,y1,y2);
 
