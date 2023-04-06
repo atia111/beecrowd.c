@@ -26,4 +26,7 @@ int main() {
     printf("120 e x\n");
     printf("121 e y\n");
     printf("122 e z\n");
+    
+    
+    return 0;
 }
